@@ -1,3 +1,5 @@
+DEPLOYED LINK -> https://65ec86edea89e0b9bd5eb73a--animated-biscotti-6d464c.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
